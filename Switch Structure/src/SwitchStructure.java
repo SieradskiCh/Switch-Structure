@@ -1,7 +1,7 @@
 import java.util.Scanner;
 public class SwitchStructure
 	{
-
+//hi
 	public static void main(String[] args)
 		{
 		generateNumber();
